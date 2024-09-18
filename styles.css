@@ -8,7 +8,7 @@
 }
 
 html {
-    scroll-behavior: smooth;
+  scroll-behavior: smooth;
 }
 
 li {
@@ -241,8 +241,8 @@ LANDING PAGE
 }
 
 .modal--open .mail__btn {
-    visibility: none;
-    opacity: 0;
+  visibility: none;
+  opacity: 0;
 }
 
 .scroll {
